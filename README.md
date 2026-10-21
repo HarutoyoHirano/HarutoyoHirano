@@ -1,9 +1,10 @@
 # Harutoyo Hirano / 平野 陽豊
 
 **ヒトの複雑な生体システムを工学で読み解き，医療に役立つ技術をつくる**
+
 *Decoding complex human physiology with engineering, and building technology that helps clinical practice.*
 
-藤田医科大学 医療科学部 臨床教育連携ユニット 診断機器工学分野 講師 / 博士（工学）
+藤田医科大学 医療科学部 臨床教育連携ユニット 診断機器工学分野 講師 / 博士（工学）  
 Lecturer, School of Medical Sciences, Fujita Health University — Ph.D. in Engineering
 
 [![Lab](https://img.shields.io/badge/Lab-hiranolab.github.io-0a7ea4)](https://hiranolab.github.io/)
